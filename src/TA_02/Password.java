@@ -1,6 +1,5 @@
 package TA_02;
 
-import java.util.Iterator;
 
 public class Password {
 
